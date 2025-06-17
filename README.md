@@ -90,4 +90,8 @@ This Power BI project was developed as part of the **Goodly Data Case Study Chal
   - GM Threshold (Created to fulfill the req. `Flexible: Read threshold values from a user-editable input file`)
   - Team
   - Quantity Sales Data
-    - One file per region: GJ, MH, MP, TG – stored in folder “Sales Data Table”
+    - GJ
+    - MH
+    - MP
+    - TG
+    stored in folder “Sales Data Table”
