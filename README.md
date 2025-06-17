@@ -1,4 +1,4 @@
-# 🧠 Sales Insights Dashboard – FMCG Case Study (Power BI)
+# 🧠 Sales Insights Dashboard – FMCG Case Study
 
 This Power BI project was developed as part of the **Goodly Data Case Study Challenge**, focused on building an end-to-end sales performance dashboard for an FMCG distributor. The dashboard is designed to be used by the **National Sales Head (NSH)** and regional teams for tracking KPIs, promotional effectiveness, margin performance, and regional trends.
 
@@ -7,7 +7,7 @@ This Power BI project was developed as part of the **Goodly Data Case Study Chal
 ## 📁 Project Overview
 
 - **Domain**: FMCG / Retail Sales
-- **Tools**: Power BI, DAX, Power Query
+- **Tools**: Power BI, DAX, Power Query, Microsoft Excel
 - **Dataset**: Regional sales data, price master, team hierarchy
 - **Timeframe**: Multi-year monthly data (2023–2025)
 - **Model Structure**: Star schema with Date, Product, Price, Region & Team dimensions
