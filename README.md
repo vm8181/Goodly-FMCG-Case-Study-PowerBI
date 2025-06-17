@@ -22,7 +22,11 @@ This Power BI project was developed as part of the **Goodly Data Case Study Chal
 - Forecasting using Compound Annual Growth Rate (CAGR)
 - KPI cards, best/worst month flags, and growth indicators
 
-![image](https://github.com/user-attachments/assets/48843847-20ef-4322-ae30-6f0d47b53f10)
+#### Seasonal Trend
+![image](https://github.com/user-attachments/assets/87ff9ce8-13ec-43a3-b941-654d02fdfc40)
+
+#### YoY Trend
+![image](https://github.com/user-attachments/assets/c0d474dc-238c-4721-a545-70e8390e1394)
 
 ### 2. 📉 Margin & Promo Analysis
 - Promo vs Normal sales segmentation
@@ -31,7 +35,7 @@ This Power BI project was developed as part of the **Goodly Data Case Study Chal
 - Top products by sales, Promo Share %, and contribution
 - Scatter plot for **Promo Share vs Margin %** with recommendations
 
-![image](https://github.com/user-attachments/assets/c3ee589b-d80c-4783-a328-3193ee511a2b)
+![image](https://github.com/user-attachments/assets/40226787-e774-4712-b904-5d9d164fbd42)
 
 ### 3. 🧭 Business Overview
 - Regional & team performance (NSM → RSM hierarchy)
@@ -39,7 +43,7 @@ This Power BI project was developed as part of the **Goodly Data Case Study Chal
 - Lost revenue from dropped SKUs
 - Category and region-wise contribution
 
-![image](https://github.com/user-attachments/assets/694a4642-f527-44ea-92f2-f99cf6ca679f)
+![image](https://github.com/user-attachments/assets/0219994f-ce1b-4b04-aaf4-a5d86cf7ed0f)
 
 ---
 
