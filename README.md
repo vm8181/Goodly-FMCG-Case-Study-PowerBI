@@ -26,7 +26,7 @@ This Power BI project was developed as part of the **Goodly Data Case Study Chal
 ![image](https://github.com/user-attachments/assets/a8a37892-ccf1-4816-aa63-4c7e58d2a323)
 
 #### YoY Trend
-![image](https://github.com/user-attachments/assets/3049f772-7452-4a00-90b8-f58a959128ea)
+![image](https://github.com/user-attachments/assets/46d64b62-16fb-4c8c-8b22-56641c6a8aef)
 
 ### 2. 📉 Margin & Promo Analysis
 - Promo vs Normal sales segmentation
