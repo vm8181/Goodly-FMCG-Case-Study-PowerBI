@@ -127,5 +127,3 @@ Please provide:
 - Upload the Power BI file directly as part of your application submission.
 
 ---
-
-Let me know if you'd like me to generate a downloadable `README.md` file or a GitHub-friendly version with embedded visuals or repo structure! 
