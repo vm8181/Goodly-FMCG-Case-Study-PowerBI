@@ -36,8 +36,6 @@ This Power BI project was developed as part of a case study to deliver a scalabl
 
 Prepare a Power BI report with the following three report pages:
 
----
-
 ### 1️⃣ Trend Analysis Page
 Design a KPI-driven trend view including:
 - Monthly trends for:
