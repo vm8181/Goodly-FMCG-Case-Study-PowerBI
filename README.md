@@ -23,10 +23,10 @@ This Power BI project was developed as part of the **Goodly Data Case Study Chal
 - KPI cards, best/worst month flags, and growth indicators
 
 #### Seasonal Trend
-![image](https://github.com/user-attachments/assets/a8a37892-ccf1-4816-aa63-4c7e58d2a323)
+![image](https://github.com/user-attachments/assets/7dd9e9e9-2838-4c5b-8222-1a8637807084)
 
 #### YoY Trend
-![image](https://github.com/user-attachments/assets/46d64b62-16fb-4c8c-8b22-56641c6a8aef)
+![image](https://github.com/user-attachments/assets/c3e1b8fa-9fa2-4f86-97c3-3c5d8f57aef0)
 
 ### 2. 📉 Margin & Promo Analysis
 - Promo vs Normal sales segmentation
@@ -35,7 +35,8 @@ This Power BI project was developed as part of the **Goodly Data Case Study Chal
 - Top products by sales, Promo Share %, and contribution
 - Scatter plot for **Promo Share vs Margin %** with recommendations
 
-![image](https://github.com/user-attachments/assets/40226787-e774-4712-b904-5d9d164fbd42)
+![image](https://github.com/user-attachments/assets/536740c0-07fe-41a4-925a-88e4cde1d253)
+
 
 ### 3. 🧭 Business Overview
 - Regional & team performance (NSM → RSM hierarchy)
@@ -43,7 +44,11 @@ This Power BI project was developed as part of the **Goodly Data Case Study Chal
 - Lost revenue from dropped SKUs
 - Category and region-wise contribution
 
-![image](https://github.com/user-attachments/assets/0219994f-ce1b-4b04-aaf4-a5d86cf7ed0f)
+![image](https://github.com/user-attachments/assets/ec969981-b683-4692-8c0d-44f54e624199)
+
+### 3. 🧭 Detailed View (Raw Dataset)
+
+![image](https://github.com/user-attachments/assets/4dc45d92-d368-4e0f-ab51-78ebb1048906)
 
 ---
 
@@ -55,6 +60,7 @@ This Power BI project was developed as part of the **Goodly Data Case Study Chal
 - 🚦 **Promo Effectiveness**: Identifies over-discounting via scatter visual
 - 🧩 **Team-Based Filtering**: Enables RSM/NSM level drilldowns
 - 📉 **Lost Sales Detection**: Highlights missed opportunities from dropped products
+
 
 ---
 
