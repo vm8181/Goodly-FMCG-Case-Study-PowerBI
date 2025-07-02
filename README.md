@@ -23,7 +23,7 @@ This Power BI project was developed as part of the **Goodly Data Case Study Chal
 - KPI cards, best/worst month flags, and growth indicators
 
 #### Seasonal Trend
-![image](https://github.com/user-attachments/assets/7dd9e9e9-2838-4c5b-8222-1a8637807084)
+![image](https://github.com/user-attachments/assets/a63011a1-8310-4c81-a29a-534b1a52cc97)
 
 #### YoY Trend
 ![image](https://github.com/user-attachments/assets/4bc0a4ed-5cd9-4bcf-b98b-95c1a9197ec7)
