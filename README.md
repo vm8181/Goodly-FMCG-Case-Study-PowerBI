@@ -23,10 +23,10 @@ This Power BI project was developed as part of the **Goodly Data Case Study Chal
 - KPI cards, best/worst month flags, and growth indicators
 
 #### Seasonal Trend
-![image](https://github.com/user-attachments/assets/2d961228-544f-438b-8db8-3374142cab62)
+![image](https://github.com/user-attachments/assets/669eda42-0a07-4089-a741-222214509c4c)
 
 #### YoY Trend
-![image](https://github.com/user-attachments/assets/43289745-23dc-4d61-9f32-7d814009c4cb)
+![image](https://github.com/user-attachments/assets/2b5bcc7e-8ae8-4a8a-9fd9-0bedab67da17)
 
 ### 2. 📉 Margin & Promo Analysis
 - Promo vs Normal sales segmentation
