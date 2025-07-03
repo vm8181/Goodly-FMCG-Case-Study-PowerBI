@@ -26,7 +26,7 @@ This Power BI project was developed as part of the **Goodly Data Case Study Chal
 ![image](https://github.com/user-attachments/assets/a63011a1-8310-4c81-a29a-534b1a52cc97)
 
 #### YoY Trend
-![image](https://github.com/user-attachments/assets/4bc0a4ed-5cd9-4bcf-b98b-95c1a9197ec7)
+![image](https://github.com/user-attachments/assets/43289745-23dc-4d61-9f32-7d814009c4cb)
 
 ### 2. 📉 Margin & Promo Analysis
 - Promo vs Normal sales segmentation
@@ -37,14 +37,13 @@ This Power BI project was developed as part of the **Goodly Data Case Study Chal
 
 ![image](https://github.com/user-attachments/assets/536740c0-07fe-41a4-925a-88e4cde1d253)
 
-
 ### 3. 🧭 Business Overview
 - Regional & team performance (NSM → RSM hierarchy)
 - Lost product analysis: SKUs sold last year but not in the selected year
 - Lost revenue from dropped SKUs
 - Category and region-wise contribution
 
-![image](https://github.com/user-attachments/assets/ec969981-b683-4692-8c0d-44f54e624199)
+![image](https://github.com/user-attachments/assets/52a4b9a5-24eb-4be9-beef-32b36429b2ff)
 
 ### 3. 🧭 Detailed View (Raw Dataset)
 
