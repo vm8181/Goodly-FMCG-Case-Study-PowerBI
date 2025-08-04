@@ -23,10 +23,10 @@ This Power BI project was developed as part of the **Goodly Data Case Study Chal
 - KPI cards, best/worst month flags, and growth indicators
 
 #### Seasonal Trend
-![image](https://github.com/user-attachments/assets/669eda42-0a07-4089-a741-222214509c4c)
+<img width="1307" height="731" alt="image" src="https://github.com/user-attachments/assets/7ac80457-8afd-41cb-a59d-ea21c1bf819a" />
 
 #### YoY Trend
-![image](https://github.com/user-attachments/assets/2b5bcc7e-8ae8-4a8a-9fd9-0bedab67da17)
+<img width="1300" height="735" alt="image" src="https://github.com/user-attachments/assets/e66ff16d-2206-4347-850c-03d6a7a0f522" />
 
 ### 2. 📉 Margin & Promo Analysis
 - Promo vs Normal sales segmentation
@@ -35,7 +35,7 @@ This Power BI project was developed as part of the **Goodly Data Case Study Chal
 - Top products by sales, Promo Share %, and contribution
 - Scatter plot for **Promo Share vs Margin %** with recommendations
 
-![image](https://github.com/user-attachments/assets/536740c0-07fe-41a4-925a-88e4cde1d253)
+<img width="1301" height="731" alt="image" src="https://github.com/user-attachments/assets/b9c3fc20-1da4-4c98-b4fd-2186a5732958" />
 
 ### 3. 🧭 Business Overview
 - Regional & team performance (NSM → RSM hierarchy)
@@ -43,9 +43,10 @@ This Power BI project was developed as part of the **Goodly Data Case Study Chal
 - Lost revenue from dropped SKUs
 - Category and region-wise contribution
 
-![image](https://github.com/user-attachments/assets/52a4b9a5-24eb-4be9-beef-32b36429b2ff)
+<img width="1302" height="731" alt="image" src="https://github.com/user-attachments/assets/76ddf07f-6082-4d13-9dcb-caf8b8a469c8" />
 
 ### 3. 🧭 Detailed View (Raw Dataset)
+- Drill Through filter from Trend, Promo, and Business Overview report.
 
 ![image](https://github.com/user-attachments/assets/4dc45d92-d368-4e0f-ab51-78ebb1048906)
 
