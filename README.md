@@ -100,3 +100,9 @@ This Power BI project was developed as part of the **Goodly Data Case Study Chal
     - MH
     - MP
     - TG
+  ---
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/vikashm1996)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4B0082?logo=internet-explorer)](https://vikashmishra.co.in/)
